@@ -7,5 +7,5 @@ void setup(){
 }
 
 void draw(){
-  println(a[int(random(1001)))]);
+  println(a[int(random(1000))]);
 }
