@@ -5,3 +5,7 @@ void setup(){
      a[i] = int(random(10));
    }
 }
+
+void draw(){
+  println(a[int(random(1001)))]);
+}
